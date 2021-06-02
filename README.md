@@ -29,7 +29,7 @@ Prediction:
 Initially we are started with the data collection that was done from U.S Energy Information Administration and here we got separate data files year wise then we merged all the datasets to a single csv file then firstly to understand the attributes of our dataset and also understand what kind of data we have. We have also manually added the longitude and the latitude of the state and counties. We have done various visualisations through tableau. So after that we pre-processed our data to remove the NaN/Missing Values. After the pre-processing exploratory data analysis (EDA) was performed to achieve insights and statistical measures from the data. With the help of graphical representation in the form of various charts, then after we found the co-relation between various attributes. By using various design models we got to know relation between production and various other attributes.
 
 # Solution Design
-![Image of Flowchart](https://github.com/rushi329/U.S.CoalProductionMLProject/blob/efd135d8263a569a930345a1f5b0dfc7dc88d33a/Blank%20diagram%20(3).png)
+![Image of Flowchart](https://github.com/rushi329/U.S.CoalProductionAnalysis/blob/af5d786e10625fbd5d4fcb68e7521f26e4835f68/Blank%20diagram%20(3).png)
 
 # Tableau Visualization
 
