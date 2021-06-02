@@ -6,7 +6,7 @@
 * Shivam Yadav
 * Jaydhaval Madvanna
 
-# [Click Here To See Website](https://rawcdn.githack.com/rushi329/U.S.CoalProductionMLProject/e6767dbdcd0bfbd922cb5fdfcc777746dfe9479a/index.html)
+# [Click Here To See Website](https://rawcdn.githack.com/rushi329/U.S.CoalProductionAnalysis/b0e7c4fe6922c2eb4b8997961c0888d25bc77d71/index.html)
 
 # Introduction
 ## The U.S Coal Mine Production
