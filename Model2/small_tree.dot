@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="Average_Employees <= 226.5\nmse = 85906119286.2\nsamples = 2476\nvalue = 154063.9"] ;
+1 [label="Average_Employees <= 70.5\nmse = 11361383565.9\nsamples = 2258\nvalue = 78274.4"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Average_Employees <= 27.5\nmse = 1728344546.8\nsamples = 1889\nvalue = 38056.2"] ;
+1 -> 2 ;
+3 [label="mse = 311635376.6\nsamples = 1416\nvalue = 18376.9"] ;
+2 -> 3 ;
+4 [label="mse = 1211663432.0\nsamples = 473\nvalue = 98863.7"] ;
+2 -> 4 ;
+5 [label="Average_Employees <= 125.5\nmse = 9594321185.3\nsamples = 369\nvalue = 286079.5"] ;
+1 -> 5 ;
+6 [label="mse = 1790788121.4\nsamples = 217\nvalue = 217408.1"] ;
+5 -> 6 ;
+7 [label="mse = 4959476447.8\nsamples = 152\nvalue = 380257.5"] ;
+5 -> 7 ;
+8 [label="Average_Employees <= 519.5\nmse = 204157102530.6\nsamples = 218\nvalue = 904213.0"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="Average_Employees <= 338.0\nmse = 32427286149.7\nsamples = 173\nvalue = 726830.1"] ;
+8 -> 9 ;
+10 [label="mse = 7809157247.4\nsamples = 108\nvalue = 618466.7"] ;
+9 -> 10 ;
+11 [label="mse = 18595944091.1\nsamples = 65\nvalue = 917999.3"] ;
+9 -> 11 ;
+12 [label="Average_Employees <= 832.0\nmse = 232412591755.6\nsamples = 45\nvalue = 1657448.0"] ;
+8 -> 12 ;
+13 [label="mse = 21115644897.2\nsamples = 34\nvalue = 1432632.3"] ;
+12 -> 13 ;
+14 [label="mse = 83898910793.5\nsamples = 11\nvalue = 2540652.7"] ;
+12 -> 14 ;
+}
